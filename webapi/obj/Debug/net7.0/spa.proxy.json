@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44419",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/jongonzalez/Developer/c sharp/Solution3/webapi/../reactapp",
+"MaxTimeoutInSeconds": "120"
+}
+}
